@@ -1,0 +1,125 @@
+.about-container {
+    max-width: 900px; /* Reduced from 1000px */
+    margin: 60px auto; /* Reduced from 80px */
+    padding: 0 30px; /* Reduced from 40px */
+  }
+  .about-header {
+    text-align: center;
+    margin-bottom: 30px; /* Reduced from 50px */
+  }
+
+  .tagline {
+    font-size: 1.1rem; /* Reduced from 1.2rem */
+    max-width: 500px; /* Reduced from 600px */
+  }
+
+  .about-grid {
+    display: grid;
+    
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  .about-card {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid #e2e8f0;
+    height: 100%; 
+  }
+
+  .about-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+  }
+
+  .card-icon {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color: var(--primary);
+  }
+
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: var(--dark);
+  }
+
+  .card-content {
+    color: #475569;
+    font-size: 0.95rem;
+  }
+
+  .highlight-box {
+    grid-column: span 2;
+    background: black;
+    color: white;
+    border-radius: 16px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    border-left: 5px solid var(--primary);
+    height: 100%;
+  }
+
+  .highlight-content {
+    flex: 1;
+  }
+
+  .highlight-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: var(--dark);
+  }
+
+  .highlight-text {
+    color: #334155;
+    font-size: 1.1rem;
+    line-height: 1.7;
+  }
+
+  .highlight-image {
+    flex: 0 0 200px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+  }
+
+  .highlight-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  @media (max-width: 900px) {
+    .highlight-box {
+      flex-direction: column;
+      grid-column: span 1;
+    }
+    
+    .highlight-image {
+      flex: 1;
+      width: 100%;
+    }
+    
+  }
+
+  .projects ul li {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #fff;
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .projects ul li:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transform: translateY(-4px);
+  }
+  
