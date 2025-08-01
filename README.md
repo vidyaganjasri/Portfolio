@@ -10,14 +10,14 @@ This portfolio highlights my journey in web development, AI/ML, and problem-solv
 
 ## Screenshots
 
-<img width="1880" height="863" alt="image" src="https://github.com/user-attachments/assets/a620d14c-4c96-42c2-acec-6a102cea8141" />
+<img width="1872" height="876" alt="image" src="https://github.com/user-attachments/assets/7ea25a92-ea54-4e09-a73b-ec281a025261" />
 
 --
 
-<img width="1866" height="886" alt="image" src="https://github.com/user-attachments/assets/99cab235-2d2f-4ee3-96c4-a41850ac897b" />
+<img width="1873" height="872" alt="image" src="https://github.com/user-attachments/assets/4dfa0a4c-eee1-4204-87fe-08974f533746" />
 
 --
-<img width="1869" height="889" alt="image" src="https://github.com/user-attachments/assets/71ede1a8-f3fa-4325-931a-19e070e9b3ba" />
+<img width="1874" height="880" alt="image" src="https://github.com/user-attachments/assets/ecf7999c-f372-4520-ae5a-afc47a18609d" />
 
 
 Here's a glimpse of the portfolio:
