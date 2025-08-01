@@ -9,14 +9,16 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 This portfolio highlights my journey in web development, AI/ML, and problem-solving. It's designed to be clean, responsive, and easy to navigate.
 
 ## Screenshots
+---
 
 <img width="1872" height="876" alt="image" src="https://github.com/user-attachments/assets/7ea25a92-ea54-4e09-a73b-ec281a025261" />
 
---
+---
 
 <img width="1873" height="872" alt="image" src="https://github.com/user-attachments/assets/4dfa0a4c-eee1-4204-87fe-08974f533746" />
 
---
+---
+
 <img width="1874" height="880" alt="image" src="https://github.com/user-attachments/assets/ecf7999c-f372-4520-ae5a-afc47a18609d" />
 
 
